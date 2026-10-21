@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm a high-school student in Morocco who uses data and code to test what people assume.
 
-<!--
-**ryeggouti/ryeggouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When the evidence disagrees with my first answer, I change the answer. Every project below states its question, tests it fairly, and says what the data can't prove.
 
-Here are some ideas to get you started:
+**[Morocco in Data](https://ryeggouti.github.io/)** collects my projects in one place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Question | What I found |
+|---|---|---|
+| [Is Morocco Running Out of Rain?](https://github.com/ryeggouti/morocco-drought) · [site](https://ryeggouti.github.io/morocco-drought/) | Is Morocco getting drier? | Rainfall shows no clear trend (p = 0.96), but evaporation demand rose about 31 mm per decade (p = 0.001). It's the heat. |
+| [How Did Morocco Reach the Semi-Final?](https://github.com/ryeggouti/morocco-world-cup-2022) · [site](https://ryeggouti.github.io/morocco-world-cup-2022/) | How did Morocco get to the 2022 World Cup semi-final? | Fewer shots but better chances, and a defence that got stronger as opponents got harder. |
+| [Lunar Lander](https://github.com/ryeggouti/lunar-lander-rl) | What does an AI's behaviour really depend on? | Removing the crash penalty made it land every time, more than twice as fast, across 3 training runs. |
+| [Stork Flight](https://github.com/ryeggouti/stork-flight) · [play](https://ryeggouti.github.io/stork-flight/) | Can an AI learn to fly in a game I built, from rewards alone? | With enough practice it beat my hand-written rule, but the same code gave very different results from run to run. |
+
+**Tools:** Python (pandas, SciPy, GeoPandas, Gymnasium, Stable-Baselines3) in Google Colab · HTML, CSS and JavaScript · GitHub Pages
+
+I use AI coding assistants to help write code. The questions, the tests and the conclusions are mine.
