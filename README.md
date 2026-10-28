@@ -2,6 +2,8 @@
 
 When the evidence disagrees with my first answer, I change the answer. Every project below states its question, tests it fairly, and says what the data can't prove.
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ryeggouti/badge.svg)](https://hub.xerj.org/contributors/ryeggouti)
+
 **[Morocco in Data](https://ryeggouti.github.io/)** collects my projects in one place.
 
 | Project | Question | What I found |
